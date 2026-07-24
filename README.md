@@ -21,28 +21,28 @@ Building the **BOLD** ecosystem across software, media, and marketing. Independe
         <img src="https://fdyhcokgnymevgtixwuf.supabase.co/storage/v1/object/public/portfolio-media/logos/e913a3d6-82c4-49a3-b790-763b8dc92a06-BOLD_social_v2.PNG" height="52" alt="BOLD"><br>
         <b>BOLD Studios</b>
       </a><br>
-      <sub>Software · Media · Marketing</sub>
+      <sub>Software. Media. Marketing.</sub>
     </td>
     <td align="center" width="180">
       <a href="https://hisglorymusic.tv">
         <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/hisglorymusic/Music%20Logo.png" height="52" alt="His Glory Music"><br>
         <b>His Glory Music</b>
       </a><br>
-      <sub>Kingdom music streaming</sub>
+      <sub>Christian music streaming</sub>
     </td>
     <td align="center" width="180">
       <a href="https://galileyostudios.com">
         <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/Galileyo/galileyo_new_logo.webp" height="52" alt="Galileyo Studios"><br>
         <b>Galileyo Studios</b>
       </a><br>
-      <sub>Faith-driven media</sub>
+      <sub>Satellite-backed social media</sub>
     </td>
     <td align="center" width="180">
       <a href="https://brettraio.com">
         <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/brettraio-site-assets/Brett%20Raio%20Logo%20(1).PNG" height="52" alt="Brett Raio"><br>
         <b>Brett Raio</b>
       </a><br>
-      <sub>Music artist</sub>
+      <sub>Founder & Music Artist</sub>
     </td>
   </tr>
 </table>
@@ -80,4 +80,4 @@ Independent artist making honest, faith-forward songs. Latest work, videos, and 
 ---
 
 <p align="center"><i>"Whatever you do, work at it with all your heart, as working for the Lord." (Colossians 3:23)</i></p>
-<p align="center"><b>Build bold.</b></p>
+<p align="center"><b>Build BOLD.</b></p>
