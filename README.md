@@ -12,7 +12,7 @@ I'm Brett, founder of **BOLD Ventures**. I build platforms that help people and 
 
 Building the **BOLD** ecosystem across software, media, and marketing. Independent Christian artist as **[Brett Raio](https://brettraio.com)**. Host of **Raio Radio** and the **For The King** podcast. Faith first, build bold, give it all back.
 
-## The BOLD Ecosystem
+## BOLD Platforms
 
 <table>
   <tr>
