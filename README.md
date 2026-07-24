@@ -1,4 +1,4 @@
-<h1 align="center">BOLD Studios 🔥</h1>
+<h1 align="center">BOLD Studios</h1>
 <p align="center"><b>Faith-forward software, media, and music. Built by <a href="https://brettraio.com">Brett Raio</a>.</b></p>
 
 <p align="center">
@@ -10,27 +10,50 @@
 
 I'm Brett, founder of **BOLD Ventures**. I build platforms that help people and the Kingdom win, and I make music on the side of the desk. Everything here is one portfolio: one founder, one standard of excellence, a lot of shipping.
 
-- 🏗️ Building the **BOLD** ecosystem: software, marketing, clipping, and media under one roof
-- 🎵 Independent Christian music artist as **[Brett Raio](https://brettraio.com)**
-- 🎙️ Host of **Raio Radio** and the **For The King** podcast
-- 📈 Obsessed with speed, quality, and doing more with less
-- ✝️ Faith first. Build bold. Give it all back.
+Building the **BOLD** ecosystem across software, media, and marketing. Independent Christian artist as **[Brett Raio](https://brettraio.com)**. Host of **Raio Radio** and the **For The King** podcast. Faith first, build bold, give it all back.
 
-## 🚀 Current Projects
+## The BOLD Ecosystem
 
-- **[BOLD](https://github.com/BOLDStudios/bold)** the BOLD programming language, `bld` toolchain, BOLD OS, and BOLD Code terminal. One language, one OS, one standard.
-- **[His Glory Music](https://hisglorymusic.tv)** the streaming and discovery home for Kingdom music and creators.
-- **[Galileyo Studios](https://galileyostudios.com)** faith-driven media and content studio.
-- **OppScore** opportunity-scoring platform that ranks the best moves before you make them.
-- **BOLD Clipping** a virality-grade clipping and short-form engine running creator and brand accounts at scale.
-- **BOLD Social** multi-channel content and scheduling built for volume without losing quality.
-- **ASAP Preach** artist and ministry site platform, one great template replicated for hundreds of creators.
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://boldstudios.io">
+        <img src="https://fdyhcokgnymevgtixwuf.supabase.co/storage/v1/object/public/portfolio-media/logos/e913a3d6-82c4-49a3-b790-763b8dc92a06-BOLD_social_v2.PNG" height="52" alt="BOLD"><br>
+        <b>BOLD Studios</b>
+      </a><br>
+      <sub>Software · Media · Marketing</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://hisglorymusic.tv">
+        <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/hisglorymusic/Music%20Logo.png" height="52" alt="His Glory Music"><br>
+        <b>His Glory Music</b>
+      </a><br>
+      <sub>Kingdom music streaming</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://galileyostudios.com">
+        <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/Galileyo/galileyo_new_logo.webp" height="52" alt="Galileyo Studios"><br>
+        <b>Galileyo Studios</b>
+      </a><br>
+      <sub>Faith-driven media</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://brettraio.com">
+        <img src="https://hcamiahiytrjczzsrodb.supabase.co/storage/v1/object/public/brettraio-site-assets/Brett%20Raio%20Logo%20(1).PNG" height="52" alt="Brett Raio"><br>
+        <b>Brett Raio</b>
+      </a><br>
+      <sub>Music artist</sub>
+    </td>
+  </tr>
+</table>
 
-> Full case studies and live links live at **[BOLDStudios.io/portfolio](https://boldstudios.io/portfolio)**.
+Also building **[OppScore](https://boldstudios.io/portfolio)** (opportunity-scoring platform), **[ASAP Preach](https://boldstudios.io/portfolio)** (artist and ministry sites), **[BOLD Clipping](https://boldstudios.io/portfolio)** (short-form at scale), and **[BOLD Social](https://boldstudios.io/portfolio)** (multi-channel content).
 
-## 🎵 Music
+Full case studies and live links: **[BOLDStudios.io/portfolio](https://boldstudios.io/portfolio)**
 
-Independent artist making honest, faith-forward songs. Latest work, videos, and the **Revival** era are all rolling out now.
+## Music
+
+Independent artist making honest, faith-forward songs. Latest work, videos, and the **Revival** era are rolling out now.
 
 <p align="left">
   <a href="https://open.spotify.com/artist/02dvNPGFuDNJWm2jU3Z3IY"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
@@ -39,7 +62,7 @@ Independent artist making honest, faith-forward songs. Latest work, videos, and 
   <a href="https://soundcloud.com/brettraio"><img src="https://img.shields.io/badge/SoundCloud-FF7700?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
 </p>
 
-## 🌐 Connect
+## Connect
 
 <p align="left">
   <a href="https://brettraio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
@@ -48,7 +71,7 @@ Independent artist making honest, faith-forward songs. Latest work, videos, and 
   <a href="https://www.youtube.com/BrettRaio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BOLDStudios&show_icons=true&hide_border=true&theme=dark&title_color=FF5A00&icon_color=FF5A00" alt="GitHub stats" height="165">
@@ -59,5 +82,5 @@ Independent artist making honest, faith-forward songs. Latest work, videos, and 
 
 ---
 
-<p align="center"><i>"Whatever you do, work at it with all your heart, as working for the Lord." — Colossians 3:23</i></p>
-<p align="center"><b>Build bold. 🔥</b></p>
+<p align="center"><i>"Whatever you do, work at it with all your heart, as working for the Lord." (Colossians 3:23)</i></p>
+<p align="center"><b>Build bold.</b></p>
