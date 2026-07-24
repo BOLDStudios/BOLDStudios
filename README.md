@@ -74,11 +74,8 @@ Independent artist making honest, faith-forward songs. Latest work, videos, and 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOLDStudios&show_icons=true&hide_border=true&theme=dark&title_color=FF5A00&icon_color=FF5A00" alt="GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOLDStudios&hide_border=true&theme=dark&fire=FF5A00&ring=FF5A00&currStreakLabel=FF5A00" alt="GitHub streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOLDStudios&hide_border=true&theme=dark&fire=FF5A00&ring=FF5A00&currStreakLabel=FF5A00" alt="GitHub streak" height="180">
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOLDStudios&layout=compact&hide_border=true&theme=dark&title_color=FF5A00" alt="Top languages"></p>
 
 ---
 
